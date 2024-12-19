@@ -1,0 +1,1 @@
+This React app fetches Star Wars starship data from the SWAPI (Star Wars API) and displays it in a user-friendly interface. Simply run the app to explore various starships from the Star Wars universe!
